@@ -15,6 +15,7 @@
 
 * 获取网页截图
 
+
 ![screenshot](https://github.com/TheKingOfDuck/bcScan/blob/master/screenshot.png)
 
 
